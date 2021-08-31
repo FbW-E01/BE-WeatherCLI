@@ -1,6 +1,4 @@
-## Instructions for students:
-
-### Weather CLI 
+# Weather CLI 
 
 Create a Weather CLI. The program should have an API call for [`OpenWeather`](https://openweathermap.org/guide), and it should accept any given city. 
 
@@ -21,9 +19,3 @@ The current weather conditions are: few clouds
 -   Your program should be able to display the 5 day forecast.
 
 -   Your program should be able to display the degrees also in Fahrenheit.
-
-### Rules
-
--   This is an individual assignment.
--   Deadline: 2 hours.
--   Use **Git properly**
